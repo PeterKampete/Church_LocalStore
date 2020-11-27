@@ -1,0 +1,7 @@
+{
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "prettier.documentSelectors": [
+        "{   \"editor.defaultFormatter\": \"esbenp.prettier-vscode\",   \"[javascript]\": {     \"editor.defaultFormatter\": \"esbenp.prettier-vscode\"   } }"
+    ]
+}
